@@ -16,6 +16,12 @@ Student modeling is essential for understanding and predicting student behaviors
     - [Intelligent Tutoring Systems](#intelligent-tutoring-systems)
     - [Knowledge Tracing](#knowledge-tracing)
     - [Student Behavior Analysis](#student-behavior-analysis)
+    - [Student Modeling and Skills](#student-modeling-and-skills)
+    - [Student Modeling for Reading](#student-modeling-for-reading)
+    - [Student Modeling and Personalization](#student-modeling-and-personalization)
+    - [Rating System inspired Student Modeling](#rating-system-inspired-student-modeling)
+  - [Recent Papers](#recent-papers)
+  - [Conferences](#conferences)
   - [Contributing](#contributing)
   - [Star History](#star-history)
 
@@ -43,16 +49,34 @@ Student modeling is essential for understanding and predicting student behaviors
 ## Applications
 
 ### Intelligent Tutoring Systems
-- (*AIED 2012*) Developing a Scalable Intelligent Tutoring System for Mathematics [[paper](https://example.com)][[system](https://example.com)]
-  - *Summary*: How student modeling is used to drive feedback and personalized learning in tutoring systems.
+- Guzmán, Eduardo, Ricardo Conejo, and José-Luis Pérez-de-la-Cruz. "Adaptive testing for hierarchical student models." User Modeling and User-Adapted Interaction 17.1-2 (2007): 119-157. [52]
+- Corbett, Albert T., and John R. Anderson. "Knowledge tracing: Modeling the acquisition of procedural knowledge." User modeling and user-adapted interaction 4.4 (1994): 253-278. [1373]
+- Ohlsson, S. (1994). Constraint-based student modeling. In Student modeling: the key to individualized knowledge-based instruction (pp. 167-189). Springer, Berlin, Heidelberg. [285]
 
-### Knowledge Tracing
-- (*EDM 2018*) Extensions of Knowledge Tracing for Collaborative Learning [[paper](https://example.com)]
-  - *Summary*: Applies knowledge tracing to collaborative settings, modeling multiple student behaviors.
+### Rating System inspired Student Modeling
+- Tsutakawa, R. K., & Johnson, J. C. (1990). The effect of uncertainty of item parameter estimation on ability estimates. *Psychometrika*. [doi:10.1007/bf02295293]
+- Pelánek, R., Papoušek, J., Rihák, J., Stanislav, V., & NižNan, J. (2017). Elo-based learner modeling for the adaptive practice of facts. *User Modeling and User-adapted Interaction*. [doi:10.1007/s11257-016-9185-7]
+- Wauters, K., Desmet, P., & Van den Noortgate, W. (2012). Item difficulty estimation: An auspicious collaboration between data and judgment. *Computers in Education*. [doi:10.1016/j.compedu.2011.11.020]
+- Yudelson, M., Rosen, Y., Polyak, S., & de la Torre, J. (2019). Leveraging Skill Hierarchy for Multi-Level Modeling with Elo Rating System. *ACM Conference on Learning @ Scale*. [doi:10.1145/3330430.3333645]
+- Bulathwela, S., Pérez-Ortiz, M., Yilmaz, E., & Shawe-Taylor, J. (2019). TrueLearn: A Family of Bayesian Algorithms to Match Lifelong Learners to Open Educational Resources. *arXiv: Artificial Intelligence*. [doi:10.1609/aaai.v34i01.5395]
+- Herbrich, R., Minka, T. P., & Graepel, T. (2006). TrueSkill™: A Bayesian Skill Rating System. *Microsoft Research*. [doi:null]
 
-### Student Behavior Analysis
-- (*L@S 2021*) Predicting Student Dropout in MOOCs using Behavior Models [[paper](https://example.com)][[code](https://example.com)]
-  - *Summary*: Uses student interaction data to predict dropout in online courses.
+---
+
+## Recent Papers
+- **This section will be regularly updated with new research papers on student modeling, particularly focusing on deep learning and knowledge tracing approaches.**
+
+**Examples**:
+- (*NeurIPS 2023*) Advanced Knowledge Tracing with Attention Mechanisms [[paper](https://example.com)]
+- (*AIED 2024*) Improving Knowledge Tracing with Deep Neural Networks [[paper](https://example.com)]
+
+---
+
+## Conferences
+- International Conference on User Modeling, Adaptation, and Personalization (UMAP)
+- International Educational Data Mining Society Conference (EDM)
+- ACM Learning at Scale (L@S)
+- Artificial Intelligence in Education (AIED)
 
 ---
 
