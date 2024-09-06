@@ -14,6 +14,7 @@ Student modeling is essential for understanding and predicting student behaviors
   - [Tools & Libraries](#tools--libraries)
   - [Applications](#applications)
     - [Intelligent Tutoring Systems](#intelligent-tutoring-systems)
+    - [Classic Student Modeling Papers](#classic-student-modeling)
     - [Knowledge Tracing](#knowledge-tracing)
     - [Student Behavior Analysis](#student-behavior-analysis)
     - [Student Modeling and Skills](#student-modeling-and-skills)
@@ -53,6 +54,13 @@ Student modeling is essential for understanding and predicting student behaviors
 - Corbett, Albert T., and John R. Anderson. "Knowledge tracing: Modeling the acquisition of procedural knowledge." User modeling and user-adapted interaction 4.4 (1994): 253-278. [1373]
 - Ohlsson, S. (1994). Constraint-based student modeling. In Student modeling: the key to individualized knowledge-based instruction (pp. 167-189). Springer, Berlin, Heidelberg. [285]
 
+### Classic Student Modeling 
+- **Guzmán, Eduardo, Ricardo Conejo, and José-Luis Pérez-de-la-Cruz**. "Adaptive testing for hierarchical student models." *User Modeling and User-Adapted Interaction* 17.1-2 (2007): 119-157. 
+- **Corbett, Albert T., and John R. Anderson**. "Knowledge tracing: Modeling the acquisition of procedural knowledge." *User modeling and user-adapted interaction* 4.4 (1994): 253-278. 
+- **Conati, C., Gertner, A., & Vanlehn, K.** "Using Bayesian networks to manage uncertainty in student modeling." *User Modeling and User-Adapted Interaction* 12(4), 371-417. 
+- **Cen, Hao, Kenneth Koedinger, and Brian Junker**. "Learning factors analysis–a general method for cognitive model evaluation and improvement." *International Conference on Intelligent Tutoring Systems*. Springer, Berlin, Heidelberg, 2006.  **Reye, Jim**. "Student modeling based on belief networks." *International Journal of Artificial Intelligence in Education* 14, no. 1 (2004): 63-96. 
+- **Ohlsson, S.** "Constraint-based student modeling." In *Student modeling: the key to individualized knowledge-based instruction*, pp. 167-189. Springer, Berlin, Heidelberg, 1994. 
+  
 ### Rating System inspired Student Modeling
 - Tsutakawa, R. K., & Johnson, J. C. (1990). The effect of uncertainty of item parameter estimation on ability estimates. *Psychometrika*. [doi:10.1007/bf02295293]
 - Pelánek, R., Papoušek, J., Rihák, J., Stanislav, V., & NižNan, J. (2017). Elo-based learner modeling for the adaptive practice of facts. *User Modeling and User-adapted Interaction*. [doi:10.1007/s11257-016-9185-7]
