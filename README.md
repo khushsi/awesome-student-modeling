@@ -1,6 +1,7 @@
 
 # Awesome Student Modeling [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+#Just created - so still working on it
 A curated list of **awesome resources, papers, and tools** for researchers and practitioners interested in **student modeling**.
 
 Student modeling is essential for understanding and predicting student behaviors, knowledge, and learning processes in educational environments. This repository provides a comprehensive collection of foundational and recent works that serve as excellent starting points for those exploring this field.
