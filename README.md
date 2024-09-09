@@ -30,14 +30,13 @@ Student modeling is essential for understanding and predicting student behaviors
 ---
 
 ## Datasets & Benchmarks
-- (*EDM 2020*) EdNet: A Large-Scale Hierarchical Dataset in Education [[paper](https://example.com)][[dataset](https://example.com)]
-- (*JEDM 2021*) The ASSISTments Dataset: A Longitudinal Dataset of Student Learning [[paper](https://example.com)][[dataset](https://example.com)]
+- (*EDM 2020*) EdNet: A Large-Scale Hierarchical Dataset in Education [[paper](https://arxiv.org/abs/1912.03072)][[Leaderboard](http://ednet-leaderboard.s3-website-ap-northeast-1.amazonaws.com/)]
+- (*JEDM 2021*) The ASSISTments Dataset: A Longitudinal Dataset of Student Learning [[paper](https://dl.acm.org/doi/pdf/10.1145/3375462.3375523)][[dataset](https://sites.google.com/site/assistmentsdata/)]
 
 ## Foundational Papers
-- (*Cognitive Science 1995*) Knowledge Tracing: Modeling the Acquisition of Procedural Knowledge [[paper](https://example.com)]
+- (*Cognitive Science 1995*) Knowledge Tracing: Modeling the Acquisition of Procedural Knowledge [[paper](https://link.springer.com/article/10.1007/BF01099821)]
   - *Summary*: Introduces the knowledge-tracing model, a foundational approach in student modeling.
-- (*Artificial Intelligence 2006*) Bayesian Knowledge Tracing for a Complex Learning Environment [[paper](https://example.com)]
-  - *Summary*: An extension of knowledge tracing, incorporating more sophisticated student modeling techniques.
+
 
 ## Recent Advances
 - (*NeurIPS 2015*) Deep Knowledge Tracing [[paper](https://example.com)][[code](https://example.com)]
