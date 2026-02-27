@@ -183,6 +183,15 @@ If you come across relevant papers, datasets, or tools, feel free to open an iss
 
 ---
 
+## 🔗 Related Awesome Lists
+If you are interested in Educational Technology, check out these other curated lists:
+- **[Awesome EdTech Tools](https://github.com/hkalant/awesome-edtech-tools)** - General tools for instructional designers.
+- **[Awesome AI in Education](https://github.com/lcsc/awesome-ai-in-education)** - Focus on AI/LLM papers for education.
+- **[Awesome Open Education](https://github.com/smart-edtech/awesome-open-education)** - Open-source platforms and materials.
+- **[Awesome Learning Analytics](https://github.com/lamethods/lamethods.github.io)** - Methods and tutorials for LA.
+
+---
+
 ## ⭐ Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=khushsi/awesome-student-modeling&type=Date)](https://star-history.com/#khushsi/awesome-student-modeling&Date)
