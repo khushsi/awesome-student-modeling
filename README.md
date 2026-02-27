@@ -10,6 +10,7 @@ Student modeling is the process of representing a learner's state—including th
 - [Awesome Student Modeling](#awesome-student-modeling)
   - [2025 Highlights (New!)](#2025-highlights-new)
   - [2024 Results](#2024-results)
+  - [2023 Results](#2023-results)
   - [Datasets & Benchmarks](#datasets--benchmarks)
   - [Foundational Papers](#foundational-papers)
   - [Knowledge Tracing](#knowledge-tracing)
@@ -61,6 +62,24 @@ Student modeling is the process of representing a learner's state—including th
 - **Generative AI in Classrooms**: Shift from predictive to generative models for lesson planning and real-time student feedback.
 - **Multimodal Student Modeling**: Integration of facial expressions, gaze data, and dialogue acts for a holistic learner state.
 - **Fairness & Interpretability**: Increased focus on trust and bias in automated tutoring explanations.
+
+---
+
+## 2023 Results
+
+### Key Research & Awards
+- (*EDM 2023 Best Paper*) **Automated Search for Logistic Knowledge Tracing Models** - Pavlik & Eglington.
+- (*EDM 2023 Best Student Paper*) **Investigating the Importance of Demographic Features for EDM-Predictions** - Cohausz et al.
+- (*EDM 2023 Test of Time Award*) **A contextualized, differential sequence mining method to derive students' learning behavior patterns** - Kinnebrew et al.
+- (*EDM 2023*) **Knowledge Tracing Over Time: A Longitudinal Analysis** - Lee et al.
+- (*AIED 2023*) **Adaptive learning content customization based on individual learner characteristics**.
+- (*SIGIR 2023*) **A Mathematical Word Problem Generator with Structure Planning and Knowledge Enhancement**.
+- (*UMAP 2023 Best Paper*) **Combining Reinforcement Learning and Spatial Proximity Exploration for New User Recommendations**.
+
+### Emerging Trends
+- **Longitudinal Knowledge Tracing**: Analyzing how student knowledge evolves over multiple years/semesters.
+- **Demographic Bias in EDM**: Research into how age, gender, and background affect predictive accuracy.
+- **Urgency Detection**: Identifying when students need immediate help in discussion forums using NLP.
 
 ### Tools & Trends
 - **Agentic Learning Companions**: LLMs as teachable agents and personalized tutors (e.g., *HypoCompass*).
