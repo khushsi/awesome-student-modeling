@@ -12,6 +12,7 @@ Student modeling is the process of representing a learner's state—including th
   - [2024 Results](#2024-results)
   - [2023 Results](#2023-results)
   - [2022 Results](#2022-results)
+  - [2021 Results](#2021-results)
   - [Datasets & Benchmarks](#datasets--benchmarks)
   - [Foundational Papers](#foundational-papers)
   - [Knowledge Tracing](#knowledge-tracing)
@@ -98,6 +99,23 @@ Student modeling is the process of representing a learner's state—including th
 - **Adaptive Activity Sequencing**: Algorithms that help students navigate complex curricula by prioritizing the next best learning task.
 - **Pedagogical Agents & SRL**: Understanding how virtual tutors influence students' self-regulated learning behaviors.
 - **Answer-Agnostic Question Generation**: Developing question systems that don't rely on pre-existing answers, enabling more flexible assessment.
+
+---
+
+## 2021 Results
+
+### Key Research & Awards
+- (*Best Paper EDM 2021*) **Just a Few Expert Constraints Can Help: Humanizing Data-Driven Subgoal Detection for Novice Programming** - Marwan et al.
+- (*Best Student Paper EDM 2021*) **Early Prediction of Conceptual Understanding in Interactive Simulations** - Cock et al.
+- (*Best Student Paper AIED 2021*) **Discovering Co-creative Dialogue States during Collaborative Learning** - Griffith et al.
+- (*Best Paper UMAP 2021*) **Data-Driven Modeling of Learners' Individual Differences for Predicting Engagement and Success in Online Learning** - Akhuseyinoglu & Brusilovsky.
+- (*ACL 2021*) **Question Generation for Adaptive Education** - Srivastava & Goodman.
+- (*EDM Test of Time Award 2021*) **The Q-matrix Method: Mining Student Response Data for Knowledge** - Barnes.
+
+### Emerging Trends
+- **Co-creative Dialogue**: Understanding how students and systems collaborate in musical or artistic creation.
+- **Privacy in EDM**: Increasing debate over student data consent and privacy violations in large-scale analytics.
+- **Individual Differences**: Shifting from "one-size-fits-all" models to those that explicitly account for background and personality.
 
 ### Tools & Trends
 - **Agentic Learning Companions**: LLMs as teachable agents and personalized tutors (e.g., *HypoCompass*).
