@@ -8,19 +8,7 @@
 
 > A curated list of **awesome resources, papers, and tools** for researchers and practitioners interested in **student modeling**.
 
----
 
-## 🔥 Featured / Must-Read Papers (2024-2025)
-
-> [!TIP]
-> **A Systematic Review of Deep Knowledge Tracing (2015-2025)** [[paper](https://arxiv.org/abs/2402.00000)]
-> *Why read?* The most comprehensive retrospective on the last decade of DKT, outlining the shift toward Responsible AI.
-
-> [!IMPORTANT]
-> **Understanding Student Engagement with LLM-Powered Course Assistants** [[paper](https://arxiv.org/abs/2412.00000)]
-> *Why read?* A critical study from AIED 2025 on how LLMs are changing the teacher-student dynamic in real-time.
-
----
 
 ## 🏛️ Table of Contents
 
