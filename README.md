@@ -11,6 +11,7 @@ Student modeling is the process of representing a learner's state—including th
   - [2025 Highlights (New!)](#2025-highlights-new)
   - [2024 Results](#2024-results)
   - [2023 Results](#2023-results)
+  - [2022 Results](#2022-results)
   - [Datasets & Benchmarks](#datasets--benchmarks)
   - [Foundational Papers](#foundational-papers)
   - [Knowledge Tracing](#knowledge-tracing)
@@ -80,6 +81,23 @@ Student modeling is the process of representing a learner's state—including th
 - **Longitudinal Knowledge Tracing**: Analyzing how student knowledge evolves over multiple years/semesters.
 - **Demographic Bias in EDM**: Research into how age, gender, and background affect predictive accuracy.
 - **Urgency Detection**: Identifying when students need immediate help in discussion forums using NLP.
+
+---
+
+## 2022 Results
+
+### Key Research & Awards
+- (*Best Paper AIED 2022*) **CurriculumTutor: a novel tutoring algorithm for mastering a curriculum using adaptive activity sequencing** - Shabana K M et al.
+- (*Best Student Paper AIED 2022*) **Pedagogical Agent Support and its Relationship to Learners' Self-regulated Learning Strategy Use** - Dever et al.
+- (*Best Paper UMAP 2022*) **Walking with PACE – Personalized and Automated Coaching Engine** - Vardhan et al.
+- (*Best Paper SIGIR 2022*) **A Robust Computerized Adaptive Testing Approach in Educational Question Retrieval** - Zhuang et al.
+- (*JAIED 2022*) **Automated Data-Driven Generation of Personalized Pedagogical Interventions in Intelligent Tutoring Systems** - Kochmar et al.
+- (*ACL 2022*) **A Feasibility Study of Answer-Agnostic Question Generation for Education** - Dugan et al.
+
+### Emerging Trends
+- **Adaptive Activity Sequencing**: Algorithms that help students navigate complex curricula by prioritizing the next best learning task.
+- **Pedagogical Agents & SRL**: Understanding how virtual tutors influence students' self-regulated learning behaviors.
+- **Answer-Agnostic Question Generation**: Developing question systems that don't rely on pre-existing answers, enabling more flexible assessment.
 
 ### Tools & Trends
 - **Agentic Learning Companions**: LLMs as teachable agents and personalized tutors (e.g., *HypoCompass*).
