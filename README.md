@@ -9,6 +9,7 @@ Student modeling is the process of representing a learner's state—including th
 
 - [Awesome Student Modeling](#awesome-student-modeling)
   - [2025 Highlights (New!)](#2025-highlights-new)
+  - [2024 Results](#2024-results)
   - [Datasets & Benchmarks](#datasets--benchmarks)
   - [Foundational Papers](#foundational-papers)
   - [Knowledge Tracing](#knowledge-tracing)
@@ -43,6 +44,23 @@ Student modeling is the process of representing a learner's state—including th
 - (*NeurIPS 2025*) **Personalized Exercise Recommendation with Semantically-Grounded Knowledge Tracing** - introduces *ExRec* framework for structured learning progression.
 - (*IJCAI 2025*) **Contrastive Cross-Course Knowledge Tracing via Concept Graph Guided Knowledge Transfer** - introduces *TransKT* for cross-course behavior modeling.
 - (*Survey 2025*) **A Systematic Review of Deep Knowledge Tracing (2015-2025): Toward Responsible AI for Education**.
+
+---
+
+## 2024 Results
+
+### Key Research & Awards
+- (*EDM 2024 Best Paper*) **Investigating Student Ratings with Features of Automatically Generated Questions: A Large-Scale Analysis** - Johnson et al.
+- (*EDM 2024 Best Student Paper*) **Combining Dialog Acts and Skill Modeling: Chat Interactions in AI-Supported Peer Tutoring** - Borchers et al.
+- (*AIED 2024*) **A Personalized Multi-region Perception Network for Learner Facial Expression Recognition in Online Learning** - Wang et al.
+- (*ACL 2024*) **BIPED: Pedagogically Informed Tutoring System for ESL Education**.
+- (*UMAP 2024*) **Explaining the Unexplainable: Impact of Misleading Explanations on Trust** - Sadeghi et al.
+- (*L@S 2024*) **Predictive Modelling with the Open University Learning Analytics Dataset (OULAD)** - A systematic review of student modeling on public data.
+
+### Emerging Trends
+- **Generative AI in Classrooms**: Shift from predictive to generative models for lesson planning and real-time student feedback.
+- **Multimodal Student Modeling**: Integration of facial expressions, gaze data, and dialogue acts for a holistic learner state.
+- **Fairness & Interpretability**: Increased focus on trust and bias in automated tutoring explanations.
 
 ### Tools & Trends
 - **Agentic Learning Companions**: LLMs as teachable agents and personalized tutors (e.g., *HypoCompass*).
