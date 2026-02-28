@@ -180,6 +180,3 @@ If you are interested in Educational Technology, check out these other curated l
 
 ---
 
-## ⭐ Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=khushsi/awesome-student-modeling&type=Date)](https://star-history.com/#khushsi/awesome-student-modeling&Date)
